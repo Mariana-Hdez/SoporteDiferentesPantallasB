@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SoporteDiferentesPantallasB (English)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment Detail</string>
+    <string name="selector_fragment_title">Selector Fragment Title</string>
+
+    <string-array name="generos">
+        <item>Action</item>
+        <item>Romances</item>
+        <item>Horror</item>
+        <item>Fiction</item>
+    </string-array>
+
+    <string-array name="mnuContextualSelector">
+        <item>Shared</item>
+        <item>Add</item>
+        <item>Delete</item>
+    </string-array>
+
+</resources>
